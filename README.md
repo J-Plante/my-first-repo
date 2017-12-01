@@ -12,7 +12,7 @@ I live in the city of Sao Paulo, in the state of Sao Paulo, in Brasil.
 
 ### Favorite Places
 
-1. Londoon
+1. London
 2. Vancouver
 3. Praia da Fazenda
 
